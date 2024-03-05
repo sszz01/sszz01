@@ -1,6 +1,6 @@
 ### Hi there 👋
-- ![linkedin-icon-512x512-dhkaf9ri](https://github.com/sszz01/sszz01/assets/78261433/66dc9ecc-f0da-4a6d-8045-4e2032345d7b) [My LinkedIn](https://www.linkedin.com/in/oleksandr-voievodin-7a941a248/)
-- ![discord](https://github.com/sszz01/sszz01/assets/78261433/9455bc84-2eca-49c6-bf6c-85928c2f8d74) My Discord: @sz01
+- <img src="linkedin.png" alt="linkedin" width="25"/> [My LinkedIn](https://www.linkedin.com/in/oleksandr-voievodin-7a941a248/)
+- <img src="discord.png" alt="discord" width="25"/> My Discord: @sz01
 
 
 <!--

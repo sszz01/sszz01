@@ -1,6 +1,6 @@
 ### Hi there 👋
-- <img loading="lazy" src="linkedin.png" alt="linkedin" width="10%"/> [My LinkedIn](https://www.linkedin.com/in/oleksandr-voievodin-7a941a248/)
-- <img loading="lazy" src="discord.png" alt="discord" width="10%" /> My Discord: @sz01
+- <img loading="lazy" src="linkedin.png" alt="linkedin" width="50"/> [My LinkedIn](https://www.linkedin.com/in/oleksandr-voievodin-7a941a248/)
+- <img loading="lazy" src="discord.png" alt="discord" width="50" /> My Discord: @sz01
 
 
 <!--
